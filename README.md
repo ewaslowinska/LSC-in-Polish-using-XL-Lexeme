@@ -14,8 +14,8 @@ This is a repository for storing the code used for LSC detection task in Polish 
 
 **model.ipynb** iterates through the JSONL files and passes them through XL-Lexeme, creating an embedding matrix for each lemma.
 
-**CalculatePRT.ipynb** passes the lemma matrices through the PRT algorithm, creating single vectors for each lemma in both time periods.
+**CreatePRT.ipynb** passes the lemma matrices through the PRT algorithm, creating single vectors for each lemma in both time periods.
 
 **CalculateCosineDistance.ipynb** calculates the cosine distances between the vectors made by PRT.
 
-**CalculateAPD.ipynb** passess the lemma matrices through the APD algorithm.
+**CreateAPD.ipynb** passess the lemma matrices through the APD algorithm.
