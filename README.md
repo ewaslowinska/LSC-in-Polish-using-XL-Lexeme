@@ -6,3 +6,16 @@ This is a repository for storing the code used for LSC detection task in Polish 
 
 **CreateLwsfDiction.ipynb** creates a dictionary with lemmas as keys and a list of tuples of (word form, segment number, file path) as values.
 
+**CreateClearedList.ipynb** creates a list of lemmas to be examined by the model. This is done by cutting 2000 most common lemmas in both time periods and removing all lemmas with less than 25 occurences in either of the time periods.
+
+**CreateRandomSentences** chooses 25 random sentences for each of the saved lemmas.
+
+**CreateJSONLFiles.ipynb** searches through *text_structure* files to find the randomly chosen sentences. For each lemma, it creates a JSONL file with dictionaries containing the sentence, the first index of the target word, the last index of the target word and the lemma.
+
+**model.ipynb** iterates through the JSONL files and passes them through XL-Lexeme, creating an embedding matrix for each lemma.
+
+**CalculatePRT.ipynb** passes the lemma matrices through the PRT algorithm, creating single vectors for each lemma in both time periods.
+
+**CalculateCosineDistance.ipynb** calculates the cosine distances between the vectors made by PRT.
+
+**CalculateAPD.ipynb** passess the lemma matrices through the APD algorithm.
