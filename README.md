@@ -10,7 +10,7 @@ This is a repository for storing the code used for LSC detection task in Polish 
 
 **CreateRandomSentences** chooses 25 random sentences for each of the saved lemmas.
 
-**CreateJSONLFiles.ipynb** searches through *text_structure* files to find the randomly chosen sentences. For each lemma, it creates a JSONL file with dictionaries containing the sentence, the first index of the target word, the last index of the target word and the lemma.
+**CreateJSONLFiles.ipynb** searches through *text_structure.xml* files to find the randomly chosen sentences. For each lemma, it creates a JSONL file with dictionaries containing the sentence, the first index of the target word, the last index of the target word and the lemma.
 
 **model.ipynb** iterates through the JSONL files and passes them through XL-Lexeme, creating an embedding matrix for each lemma.
 
