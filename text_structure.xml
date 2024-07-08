@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<teiCorpus xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0">
+  <xi:include href="PPC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <div xml:id="div-1">
+          <u xml:id="u-1.0" who="#komentarz">Sprawozdanie stenograficzne z 1. posiedzenia Sejmu Ustawodawczego</u>
+          <u xml:id="u-1.1" who="#komentarz">z dnia 10. lutego 1919 r.</u>
+          <u xml:id="u-1.2" who="#komentarz">(Początek posiedzenia o godzinie 11 minut 45.)</u>
+          <u xml:id="u-1.3" who="#komentarz">Ze strony rządu obecni:</u>
+          <u xml:id="u-1.4" who="#komentarz">Prezydent Ministrów i Minister Spraw Zagranicznych Ignacy Jan Paderewski, Minister Spraw Wewnętrznych Stanisław Wojciechowski, Minister Sprawiedliwości Leon Supiński, Minister Wyznań Religijnych i Oświecenia Publicznego Jan Łukasiewicz, Minister Przymysłu i Handlu Kazimierz Hącia, Minister Rolnictwa i Dóbr Państwowych Stanisław Janicki, Minister Pracy i Opieki Społecznej Jerzy Iwanowski, Minister Poczt i Telegrafów Hubert Linde, Minister Kultury i Sztuki Zenon Przesmycki, Minister Robót Publicznych Józef Próchnik, Kierownik Ministerstwa Komunikacji Julian Eberhardt, Minister Skarbu Józef Englich, Minister Aprowizacji Antoni Minkiewicz, Minister Zdrowia Publicznego Tomasz Janiszewski, Kierownik Ministerstwa Spraw Wojskowych pułk. Jan Wroczyński.</u>
+          <u xml:id="u-1.5" who="#komentarz">Podsekretarze Stanu:</u>
+          <u xml:id="u-1.6" who="#komentarz">w Min. Spraw Zewnętrznych Władysław Wróblewski, w Min. Spr. Wewn. Józef Bekk, w Min. Sprawiedl. Józef Światopełk-Zawadzki, w Min. Przem. i Handlu Henryk Strasburger, w Min. Pracy i Op. Społ. Aleksander Pristor, w Min. Poczt i Telegr. Jan Urbański, w Min. Kult, i Sztuki Jan Heurich, w Min. Skarbu Władysław Byrka, w Min. Aprowizacji Janusz Machnicki, w Min. Zdrowia Publ. Witold Chodźko, w Min. Wyzn. Rel. i Ośw. Publ. Bronisław Dembiński.</u>
+          <u xml:id="u-1.7" who="#komentarz">Naczelnik Państwa Józef Piłsudski (witany burzliwymi oklaskami wchodzi na mównicę, posłowie powstają z miejsc)</u>
+          <u xml:id="u-1.8" who="#komentarz">.</u>
+          <u xml:id="u-1.9" who="#komentarz">Panowie Posłowie!</u>
+          <u xml:id="u-1.10" who="#komentarz">Półtora wieku walk, krwawych nieraz i ofiarnych, znalazło swój triumf w dniu dzisiejszym. Półtora wieku marzeń o wolnej Polsce czekało swego ziszczenia w obecnej chwili. Dzisiaj mamy wielkie święto narodu, święto radości po długiej, ciężkiej nocy cierpień.</u>
+          <u xml:id="u-1.11" who="#komentarz">W tej godzinie wielkiego serc polskich bicia czuję się szczęśliwym, że przypadł mi zaszczyt otwierać sejm polski, który znowu będzie domu swego ojczystego jedynym panem i gospodarzem.</u>
+          <u xml:id="u-1.12" who="#komentarz">Radość dnia dzisiejszego byłaby stokroć większa, gdyby nie troska, że zbieracie się w chwili niezwykle ciężkiej. Po długiej nieszczęsnej wojnie świat cały a z nim i Polska czekają z tęsknotę upragnionego pokoju. Tęsknota ta w Polsce dziś ziścić się nie może. Synowie Ojczyzny muszą iść, by bronić granic i zabezpieczyć Polsce swobodny rozwój.</u>
+          <u xml:id="u-1.13" who="#komentarz">Sąsiedzi nasi, z którymi pragnęlibyśmy żyć w pokoju i zgodzie, nie chcą zapomnieć o wiekowej słabości Polski, która tak długo stała otworem dla najazdów i była ofiarą narzucania jej obcej woli przemocą i siłą.</u>
+          <u xml:id="u-1.14" who="#komentarz">Nie chcemy mieszać się do życia wewnętrznego któregokolwiek z naszych sąsiadów, lecz pozwolić nie możemy, by pod jakimkolwiekbądź pozorem, chociażby pod pozorem rzekomego dobrodziejstwa, naruszano nasze prawo do samodzielnego życia.</u>
+          <u xml:id="u-1.15" who="#komentarz">(Oklaski).</u>
+          <u xml:id="u-1.16" who="#komentarz">Nie oddamy ani piędzi ziemi polskiej i nic pozwolimy, by uszczuplano nasze granice, do których mamy prawo</u>
+          <u xml:id="u-1.17" who="#komentarz">(burzliwe oklaski).</u>
+          <u xml:id="u-1.18" who="#komentarz">Dążności naszych sąsiadów sprawiły, że ze wszystkimi nimi znajdujemy się obecnie w otwartej wojnie lub conajmniej w stosunkach mocno naprężonych.</u>
+          <u xml:id="u-1.19" who="#komentarz">Jasną stroną w naszych stosunkach zewnętrznych są zacieśniające się węzły przyjaźni z państwami ententy. Głęboka sympatią łączyła już dawniej Polskę ze światem demokratycznym Europy i Ameryki,</u>
+          <u xml:id="u-1.20" who="#komentarz">(oklaski i głosy: Niech żyje Wilson!)</u>
+          <u xml:id="u-1.21" who="#komentarz">nie szukającym sławy w podbojach i ucisku innych narodowości, a pragnącym ułożenia stosunków w myśl zasad sprawiedliwości i słuszności.</u>
+          <u xml:id="u-1.22" who="#komentarz">Sympatia ta spotęgowała się, gdy sławne armie państw sprzymierzonych, druzgocąc ostatnią potęgę naszych ciemiężycieli, wyzwoliły Polskę z niewoli</u>
+          <u xml:id="u-1.23" who="#komentarz">(oklaski).</u>
+          <u xml:id="u-1.24" who="#komentarz">Jestem przekonany, że serdeczne uczucia i niezaprzeczona wspólność interesów z tymi państwami uczyni niezbędną dla nas z ich strony pomoc wydatną i skuteczną.</u>
+          <u xml:id="u-1.25" who="#komentarz">Naród polski przez półtora wieku zmuszony był stosować się do praw narzuconych przez obcą przemoc. Nie mogąc normować: swego życia według własnej woli, zatracił przez ten długi okres poczucie prawa, i wiarę we własne siły.</u>
+          <u xml:id="u-1.26" who="#komentarz">Obdarzeni dziś [nieczytelne] narodu dać mu macie podstawy dla jego niepodległego życia w postaci prawa konstytucyjnego Rzeczypospolitej Polskiej.</u>
+          <u xml:id="u-1.27" who="#komentarz">Na tej podstawie utworzycie rząd, oparty o prawa, przez wybrańców narodu ustanowione. Prawa, przez Was uchwalone, będą początkiem nowego życia wolnej i zjednoczonej Ojczyzny</u>
+          <u xml:id="u-1.28" who="#komentarz">(oklaski).</u>
+          <u xml:id="u-1.29" who="#komentarz">Polska, otoczona zewsząd przez wrogów musi posiadać armię, któraby mogła sprostać swoim ciężkim zadaniom,</u>
+          <u xml:id="u-1.30" who="#komentarz">(burzliwe oklaski)</u>
+          <u xml:id="u-1.31" who="#komentarz">Macie poprzeć i rozwinąć rozpoczętą budowę wojska tak, by ojczyzna, zasłonięta piersiami żołnierza, mogła się czuć bezpieczną i przeświadczoną, że honoru jej i praw broni silna i dobrze wyposażona armia (oklaski).*</u>
+          <u xml:id="u-1.32" who="#komentarz">Wreszcie zwrócicie, Panowie, niechybnie baczną uwagę na niedomagania naszego życia gospodarczego, upośledzonego przez gospodarkę obcych i zrujnowanego silnie przez wojnę i okupację. W tej dziedzinie należyte uregulowaniespraw znajdującego się w upadku przemysłu i niezbędnych reform agrarnych *(burzliwe oklaski) w duchu postępui wielkich demokracji Zachodu stworzy zdrowe podstawy dla siły duchowej narodu i da trwałe podłoże dla budowy jego przyszłości.</u>
+          <u xml:id="u-1.33" who="#komentarz">Życząc Panom powodzenia w ich trudnej i odpowiedzialnej pracy, ogłaszam pierwszy sejm wolnej i zjednoczonej Rzeczypospolitej Polskiej za otwarty</u>
+          <u xml:id="u-1.34" who="#komentarz">(burzliwe oklaski)</u>
+          <u xml:id="u-1.35" who="#komentarz">i powołuję najstarszego z Panów posła Ferdynanda Radziwiłła do objęcia tymczasowego przewodnictwa (oklaski i okrzyki: Niech żyje Piłsudski!) (Posłowie siadają. Naczelnik Państwa opuszcza salę).*</u>
+          <u xml:id="u-1.36" who="#komentarz">Przewodniczący poseł Ferdynand Radziwiłł:</u>
+          <u xml:id="u-1.37" who="#komentarz">Wysoka Izbo!</u>
+          <u xml:id="u-1.38" who="#komentarz">W chwili gdy przypada na mnie obowiązek zagajenia tego Wysokiego Zgromadzenia, oprócz serdecznej radości czuję wzruszenie, które w sercu każdego Polaka w tak ważnej i historycznej chwili budzić się musi. Oddawna, od stu lat, z wyjątkiem przejściowych zwoływań reprezentacji polskich nic było sejmu, któryby stanął przed tak ważnym i tak odpowiedzialnym dla wszystkich członków zadaniem, bo wszakże powołani jesteśmy do położenia fundamentów pod przyszłą budowę niepodległej Polski.</u>
+          <u xml:id="u-1.39" who="#komentarz">Kilka słów przedewszystkiem w osobistym moim imieniu i w imieniu moich kolegów z Wielkopolski, którzy ze szlachetnego porywu rządu zostali tu powołani jako dawni reprezentanci polscy, wybrani z Rzeszy niemieckiej, a którzy od początku istnienia tej Rzeszy w państwie pruskim i w północnych Niemczech przez długie pokolenia dzierżyli odpowiedzialność za czuwanie nad interesami ludności, która ich pieczy była powierzona. Staraliśmy się wiernie i sumiennie spełniać ten obowiązek, o ile sił naszych starczyło</u>
+          <u xml:id="u-1.40" who="#komentarz">(oklaski), czego świadectwem może być dla nas, że dlatego właśnie zostaliśmy tu powołani do tej wspólnej pracy. I oto pierwszy raz w naszym życiu doświadczeń parlamentarnych stoimy przed zgromadzeniem, do którego, jako do rodaków, rozumiejących porywy serca naszego, ku obronie naszych żywotnych praw narodowych z zaufaniem odwołać się mamy prawo.</u>
+          <u xml:id="u-1.41" who="#komentarz">(Oklaski)*</u>
+          <u xml:id="u-1.42" who="#komentarz">Ciężkie zaiste są chwile, w których się ten Sejm zbiera, a odpowiedzialność nasza wzrasta w miarę ważności chwili. Musimy ze spokojem, powagą, odpowiadającą tej chwili zabrać się do ustawodawczej pracy dla Państwa Polskiego. Granice tego państwa nie są jeszcze ustalone i możnaby powątpiewać, czy chwila obecna była odpowiednia do podejmowania tej mozolnej pracy. Ale ponieważ tak się stało, ponieważ już dzisiaj powołani tu jesteśmy do rozważania tego wszystkiego, co dla pomyślnego przeprowadzenia tego dzieła jest nieodzownie potrzebne, wzywam Was, Szanowni Panowie, abyśmy z rozwagą, nie dając się porywać partyjną nienawiścią, skupili swoje myśli w jedną całość dokoła konieczności radzenia o bezpieczeństwie państwa.</u>
+          <u xml:id="u-1.43" who="#komentarz">Chmury nadciągają ze wszystkich stron. Kresy wschodnie i kresy zachodnie, nie mniej kresy północne, są zagrożone. Nienawistne prądy państw sąsiednich wdzierają się w nasze granice. Trzeba więc nam radzić przedewszystkiem o bezpieczeństwie państwa w myśl orędzia, które dopiero co Naczelnik kraju jako program swego rządu Wam podał, Zaiste wielka jest odpowiedzialność nasza, ogrom działalności tego Sejmu prawie przechodzi siły. Trzeba zastanowić się nad tem, o co idzie w grze dzisiejszych wypadków. Przez wieki świetnej historii naszego narodu rząd polski spoczywał na mocnych, prawem uświęconych instytucjach, i dzięki temu Polska była niegdyś przedmurzem wolności Europy pried zaborczymi hordami, które w jej granice wpadały. Wam, moi Panowie, nie trzeba przypominać świetności rozwoju dziejów naszych, ale niech świadomość tej świetności i pamięć o tera stanowisku, jakie przez długie wieki państwo polskie zajmowało w Europie, kierują Waszymi obradami. Chodzi o to, aby te skarby przeszłości, które Opatrzność oddaje dziś w naszą pieczę, dopuszczając ten cud, że tak niespodziewanie zmartwychwstało Państwo Polskie, — aby te skarby ten Sejm miał na oku przy swoich decyzjach na przyszłość.</u>
+          <u xml:id="u-1.44" who="#komentarz">Oby te zasady przez wieki przodujące w dawnym rozwoju naszej państwowości, nie zostały podkopane i unicestwione przez prądy przeciwne, — zasady ochrony wiary chrześcijańskiej, niezłomnej wierności dla Stolicy Apostołskiej, zasady, które były rękojmią bezpieczeństwa tak życia prywatnego jak życia publicznego i państwowego.</u>
+          <u xml:id="u-1.45" who="#komentarz">(Oklaski)</u>
+          <u xml:id="u-1.46" who="#komentarz">Dlatego, moi Panowie, winienem w tem Wysokiem Zgromadzeniu dziś oddać pokłon Namiestnikowi Chrystusowemu, który w swoim orędziu do państw wojujących ujął się przedewszystkiem za Polską i do pieczy nad nią wezwał państwa zajęte wojną, która przedewszystkiem kraj nasz, naszą biedną ludność wtrąciła w bezgraniczne nieszczęścia i nieobliczalne zadała straty. Przyświecać nam powinna ta myśl, aby rany, zwłaszcza rany szerokich warstw naszej ludności pracującej goić w duchu miłości chrześcijańskiej.</u>
+          <u xml:id="u-1.47" who="#komentarz">(Oklaski)</u>
+          <u xml:id="u-1.48" who="#komentarz">Podnieść muszę konieczność stworzenia silnego rządu, niezbędnego do ustalenia porządku społecznego. Tam gdzie panują nieokiełznane namiętności, z jakiejkolwiek strony by wyszły, tam Panowie porządku i ładu być nic może. Pogrom państwa wschodniego, które dotychczas dzierżyło rządy kraju, gdzie dziś obradujemy, jest dla nas przykładem odstraszającym do czego prowadzi niemoc i bezprawie naród, kierujący się nie zasadami boskiej sprawiedliwości lecz partyjnemi namiętnościami i chęcią przewagi jednej klasy współobywateli nad drugą we współżyciu kraju.</u>
+          <u xml:id="u-1.49" who="#komentarz">W czasach porozbiorowych duch w polskim narodzie nie zamarł, przeciwnie można powiedzieć, że wydawał jako wyraz niezłomnej żywotności duchowej kwiaty i plon obfity w literaturze, sztuce i nauce. Czasy Królestwa Kongresowego — przypomnę tylko mężów jak Czartoryskiego Adama, Lubeckiego, Czackiego — to czasy pieczy nad powszechną oświatą, nad podniesieniem naukowem wszystkich klas narodu, — to niezatarte ślady tego ducha polskiego, który nasz kraj wonczas ożywiał. Naśladujmyż tych dawnych przywódców rozwoju kulturalnego naszego kraju, pamiętajmy o tem, że przeszłość przekazała nam skarby, których pilnować, które mnożyć, powiększać jest naszym zadaniem. Niech nam przyświecają zasady wiary, tak głęboko zakorzenionej w duszach mas naszego narodu, one nam będą najlepszą pomocą przy sumiennym spełnianiu naszych zadań. Niech nam przyświeca miłość dla braci według przykazania Chrystusowego: miłuj bliźniego swego jak siebie samego. Niech nam przyświeca nadzieja, że pomimo wszelkich przeszkód, pomimo wszelkich niebezpieczeństw, które na drodze naszej spotykać będziemy, Pan Bóg da nam wyprowadzić tę nawę państwową na właściwe tory ku bezpiecznej i dobry rozwój naszych losów rokującej przyszłości.</u>
+          <u xml:id="u-1.50" who="#komentarz">W tym moi Panowie łączmy się wszyscy i nie zapominajmy o tej nauce z Ewangelii, jak zły duch rozrzucił kąkol między ziarna dobre. Niestety, odczuwać się dają tu i owdzie prądy, które chciałyby obalić spokojny, według praw boskich odbywający się rozwój społeczny naszego kraju. Zpoza granic jego działa zły duch, zrodzony z terorystycznego rozkładu społeczeństwa w sąsiednim państwie, i pragnie się zaszczepić w naszym, duch, który wyraźnie dąży do zatopienia zasad i praw boskich i ludzkich w morzu krwi i gwałtu. Oby duch ten nigdy w Polsce nie zapanował. Występując przeciw niemu, podtrzymujemy skutecznie zasadę miłości bliźniego, zabezpieczając wszystkim stanom państwa prawo, porządek i rozwój. Niech nam Pan Bóg do tego dopomoże!</u>
+          <u xml:id="u-1.51" who="#komentarz">W tej myśli witam Szanownych Panów. Sejm polski niech żyje!</u>
+          <u xml:id="u-1.52" who="#komentarz">(Oklaski, okrzyki:</u>
+          <u xml:id="u-1.53" who="#komentarz">Niech żyje Sejm!)</u>
+          <u xml:id="u-1.54" who="#komentarz">Na sekretarzy powołuję jako najmłodszych pp. posłów Niedziałkowskiego Mieczysława i ks. Kaczyńskiego Zygmunta.</u>
+          <u xml:id="u-1.55" who="#komentarz">Naczelnik Państwa polecił mi zakomunikować Wysokiemu Sejmowi następujący telegram:</u>
+          <u xml:id="u-1.56" who="#komentarz">(czyta:)</u>
+          <u xml:id="u-1.57" who="#komentarz">Do Naczelnego Wodza Piłsudskiego.</u>
+          <u xml:id="u-1.58" who="#komentarz">Warszawa. Belweder.</u>
+          <u xml:id="u-1.59" who="#komentarz">Biała 9 lutego. Dzisiaj wojska polskie wkroczyły do fortecy Brześć.</u>
+          <u xml:id="u-1.60" who="#komentarz">(Brawa, burzliwe oklaski, okrzyki:</u>
+          <u xml:id="u-1.61" who="#komentarz">Niech żyje armia!) i chorągiew polska zawisła wysoko, aby znękanej ludności polskiej brzeskiej ziemi nieść radość wyzwolenia, wolności i zjednoczenia. W ten dzień historyczny podlegle mi oddziały ślą Ci hołd i składają twierdzę w ręce pierwszego Sejmu z przysięgą bronienia tej ważnej placówki od wschodu do ostatniej kropli krwi. Bóg nam sprzyja, gdyż tu odwieczni wrogowie, podpisując pokój brzeski, knuli spisek czwartego podziału. To miasto w polskich rękach.</u>
+          <u xml:id="u-1.62" who="#komentarz">Listowski,</u>
+          <u xml:id="u-1.63" who="#komentarz">generał-podporucznik.</u>
+          <u xml:id="u-1.64" who="#komentarz">Proszę Pana sekretarza odczytać spis dekretów wydanych w drodze ustawodawstwa tymczasowego a zgłoszonych teraz do zatwierdzenia Sejmu.</u>
+        </div>
+        <div xml:id="div-2">
+          <u xml:id="u-2.0" who="#SekretarzpNiedzialkowski">W myśl dekretu Rady Regencyjnej z dnia 15 października 1918 r. z art. 3 dekretu Naczelnika Państwa z dnia 22 listopada 1918 wpłynęły od poszczególnych ministerstw następujące dekrety do ustawodawczego traktowania:</u>
+        </div>
+        <div xml:id="div-3">
+          <u xml:id="u-3.0" who="#OdPrezydentaMinistrow">1)Dekret z dnia 26 października 1918 r. (Dz. pr.. Nr. 14 p. 30) o utworzeniu ministerstw: Spraw Zewnętrznych, Spraw Wojskowych, Komunikacji i Aprowizacji.</u>
+          <u xml:id="u-3.1" who="#OdPrezydentaMinistrow">2)Dekret z dnia 30 października 1918 r. (Dz. pr. Nr. 14 p. 31) o utworzeniu Ministerstwa Zdrowia Publicznego i Opieki społecznej i Ministerstwa Ochrony Pracy.</u>
+          <u xml:id="u-3.2" who="#OdPrezydentaMinistrow">3)Dekret z dnia 22 listopada 1918 r. (Dz. pr. 17 p. 41) o najwyższej władzy reprezentacyjnej Republiki Polskiej.</u>
+          <u xml:id="u-3.3" who="#OdPrezydentaMinistrow">4)Dekret z dnia 5 grudnia 1918 r. (Dz. pr. Nr. 19 p. 52) o utworzeniu ministerstwa Sztuki i Kultury.</u>
+          <u xml:id="u-3.4" who="#OdPrezydentaMinistrow">5)Dekret z dnia 11 grudnia 1918 r. (Dz. pr. Nr. 20 p. 59) w przedmiocie utworzenia kancelarii cywilnej Naczelnika Państwa.</u>
+          <u xml:id="u-3.5" who="#OdPrezydentaMinistrow">6)a. Dekret z dnia 30 grudnia 1918 r. (Dz. pr. Nr. 3 p. 84) o utworzeniu Państwowego Urzędu do spraw powrotu jeńców, uchodźców i robotników;</u>
+          <u xml:id="u-3.6" who="#OdPrezydentaMinistrow">b. dekret z dnia 5 lutego 1919 r. o zmianie tego dekretu. (Dz. Pr. Nr. 13 za 1919 r. p. 143) 7)Statut Komisji Rządzącej dla Galicji i Śląska Cieszyńskiego oraz Górnej Orawy i Spiżu (Dz. pr. 7 p. 106).</u>
+          <u xml:id="u-3.7" who="#OdPrezydentaMinistrow">8)Dekret z dnia 16 stycznia 1919 r. (Dz. pr. Nr. 8 p. 118) o utworzeniu Ministerstwa Robót Publicznych.</u>
+          <u xml:id="u-3.8" who="#OdPrezydentaMinistrow">9)Dekret z dnia 5 lutego 1919 r. o utworzeniu Ministerstwa Poczt i Telegrafów. (Dz. Pr. Nr. 8 za 1919 r. p. 118.) 10)Dekret z dnia 31 stycznia 1919 r. o utworzeniu Głównego Urzędu Likwidacyjnego. (Dz. Pr. Nr. 13 za 1919 r. poz. 142.) Dekrety przedstawione przez Ministerstwo Spraw Wewnętrznych:</u>
+          <u xml:id="u-3.9" who="#OdPrezydentaMinistrow">1)Dekret o ordynacji wyborczej do Sejmu Ustawodawczego z dnia 28 listopada 1918 r. (Dz. pr. Nr. 18 za 1918 r. poz. 46).</u>
+          <u xml:id="u-3.10" who="#OdPrezydentaMinistrow">2)Dekret o wyborach do Sejmu Ustawodawczego z dnia 28 listopada 1918 r. (Dz. Pr. Nr. 18 za 1918 r. poz. 47).</u>
+          <u xml:id="u-3.11" who="#OdPrezydentaMinistrow">3)Dekret o utworzeniu Rad Gminnych na obszarze b. Królestwa Kongresowego z dnia 28 listopada 1918 r. (Dz. Pr. Nr. 18 za 1918 r. poz. 48).</u>
+          <u xml:id="u-3.12" who="#OdPrezydentaMinistrow">4)Dekret w przedmiocie obrony ludności przed lichwą wojenną z 5 grudnia 1918 (Dz. Pr. Nr. 19 za 1918 poz. 50).</u>
+          <u xml:id="u-3.13" who="#OdPrezydentaMinistrow">5)Dekret o tymczasowej ordynacji wyborczej do sejmików powiatowych z dnia 5 grudnia 1918 r. (Dz. Pr. Nr. 19 za 1918 r. poz. 51.) 6)Przepisy o organizacji Milicji Ludowej z dn. 5 grudnia 1918 r. (Dz. Pr. Nr. 19 za 1918 r. poz. 53.</u>
+          <u xml:id="u-3.14" who="#OdPrezydentaMinistrow">7)Dekret o wyborach do Rad Miejskich na terenie b. Królestwa Kongresowego (Dz. Pr. Nr. 20 z 1918 r. poz. 58).</u>
+          <u xml:id="u-3.15" who="#OdPrezydentaMinistrow">8)Dekret w przedmiocie przepisów tymczasowych o moratorium mieszkaniowem dla pozostających bez pracy z dnia 19 grudnia 1918 r. (bz. Pr. Nr. 20 za 1918 r. poz. 62).</u>
+          <u xml:id="u-3.16" who="#OdPrezydentaMinistrow">9) Dekret o przekazaniu krajowemu Sądowi Wyższemu w Krakowie niektórych funkcji Sądu Najwyższego z dniu 19 grudnia 1918 r. (Dz. Pr. Nr. 20 za 1918r. poz. 64).</u>
+          <u xml:id="u-3.17" who="#OdPrezydentaMinistrow">10)Dekret o zmianach w ordynacji wyborczej do Sejmu Ustawodawczego z dnia 26 grudnia 1918 r. (Dz. Pr. Nr. 21 za 1918 r. poz. 74.) 11)Dekret o wprowadzeniu stanu wyjątkowego z dnia 2 stycznia 1919 r. (Dz. Pr. Nr. 1 za 1919 r. poz. 79).</u>
+          <u xml:id="u-3.18" who="#OdPrezydentaMinistrow">12) Dekret o używaniu wojska w wypadkach wyjątkowych z dnia 2 stycznia 1919 r. (Dz. Pr. Nr. 1 za 1919 r. poz. 80).</u>
+          <u xml:id="u-3.19" who="#OdPrezydentaMinistrow">13) Dekret o stowarzyszeniach z dnia 3-go stycznia 1919 r. (Dz. Pr. Nr. 3 za 1919 roku poz. 88).</u>
+          <u xml:id="u-3.20" who="#OdPrezydentaMinistrow">14) Dekret o postanowieniach karnych za przeciwdziałanie wyborom do Sejmu i wykonywaniu obowiązków poselskich z d. 8 stycznia 1919 r. (Dz. Pr. Nr. 5 za 1919 r. poz. 96).</u>
+          <u xml:id="u-3.21" who="#OdPrezydentaMinistrow">15)Dekret o nadaniu praw wyborczych obywatelom, którzy po d. 5 grudnia 1918 r. powrócili dokraju z dnia 11 stycznia 1919 r. (Dz. Pr. Nr. 5 za 1919 rok poz. 97).</u>
+          <u xml:id="u-3.22" who="#OdPrezydentaMinistrow">16)Dekret o organizacji policji komunalnej z dnia 9 stycznia 1919 r. (Dz. Pr. Nr. 5 za 1919 r. poz. 98).</u>
+          <u xml:id="u-3.23" who="#OdPrezydentaMinistrow">17)Dekret o przedłużeniu terminu wyborów do Sejmu Ustawodawczego w drugim okręgu wyborczym z dnia 14 stycznia 1919 r. (Dz. Pr. Nr. (3 za 1919 r. poz. 101).</u>
+          <u xml:id="u-3.24" who="#OdPrezydentaMinistrow">18)Dekret o przedłużeniu terminu wyborów do Sejmu Ustawodawczego w dwudziestym okręgu wyborczym z dnia 14 stycznia 1919 r. (Dz. Pr. Nr. 6 za 1919 r. poz. 102).</u>
+          <u xml:id="u-3.25" who="#OdPrezydentaMinistrow">19)Dekret o karach za przechowywanie lub użycie broni palnej i materiałów wybuchowych w miejscowości ogłoszonej w stanie wyjątkowym z d. 11 stycznia 1919 r. (Dz. Pr. Nr. 6 za 1919 r. poz. 103).</u>
+          <u xml:id="u-3.26" who="#OdPrezydentaMinistrow">20)Dekret w przedmiocie przywrócenia mocy obowiązującej artykułom: 99 -102 Kod. Kar. z 1903 r. z dnia 11 stycznia 1919 roku (Dz. Pr. Nr. 7 za 1919 rok poz. 107).</u>
+          <u xml:id="u-3.27" who="#OdPrezydentaMinistrow">1919 21) Dekret o nabywaniu i posiadaniu brani i amunicji z dnia 25 stycznia 1919 roku (Dz. Pr. Nr. 9 za 1919 rok poz. 128).</u>
+          <u xml:id="u-3.28" who="#OdPrezydentaMinistrow">22) Dekret o tymczasowej ustawie o samorządzie miejskim z dnia 4 lutego 1919(Dz. Pr. Nr. 13 za 1919 poz. 143).</u>
+          <u xml:id="u-3.29" who="#OdPrezydentaMinistrow">23) Dekret o tymczasowej ordynacji powiatowej dla obszarów polskich zaboru rosyjskiego z dnia 4 lutego 1919 roku. (Dz. Pr. Nr. 13 za 1919 poz. 141).</u>
+          <u xml:id="u-3.30" who="#OdPrezydentaMinistrow">24) Dekret w przedmiocie skarbowości gmin miejskich z dnia 7 lutego 1919 ^r^. (Dz. Pr. Nr. 14 za 1919 poz. 150).</u>
+          <u xml:id="u-3.31" who="#OdPrezydentaMinistrow">25) Dekret w przedmiocie uzupełnienia przepisów o organizacji Milicji Ludowej z dnia 7 lutego 1919 r. (Dz. Pr. Nr. 14 za 1919 poz. 153).</u>
+          <u xml:id="u-3.32" who="#OdPrezydentaMinistrow">26) Dekret w przedmiocie przepisów tymczasowych o uprawnieniu komisarzy ludowych do wymierzania kar w drodze j ustępowania administracyjno-karnego z dnia 7 lutego 1919 r. (Dz. Pr Nr. 14 za 1919 poz. 154).</u>
+          <u xml:id="u-3.33" who="#OdPrezydentaMinistrow">27) Dekret, o częściowej zmianie dekretu z d. 2 stycznia 1919 r. o wprowadzeniu stanu wyjątkowego z dnia 7 lutego 1919 r. (Dz. Pr. Nr. 14 za 1919 poz. 150).</u>
+          <u xml:id="u-3.34" who="#OdPrezydentaMinistrow">Dekret w przedmiocie przepisów tymczasowych dla ubezpieczeń wzajemnych budowli od ognia w b. Królestwie Polskiem z d. 7 lutego 1919 r. (Dz. Pr. Nr. 19 za 1919 poz. 190).</u>
+          <u xml:id="u-3.35" who="#OdPrezydentaMinistrow">29) Dekret w przedmiocie przepisów tymczasowych o widowiskach z dnia 7 lutego 1919 r. (Dz. Pr. Nr. 14 za 1919 poz. 177).</u>
+          <u xml:id="u-3.36" who="#OdPrezydentaMinistrow">30) Dekret w przedmiocie przepisów tymczasowych o zakładach drukarskich zakładach druków z d. 7 lutego 1919 roku. (Dz. Pr. Nr. 14 za 1919 poz. 14(5).</u>
+          <u xml:id="u-3.37" who="#OdPrezydentaMinistrow">31) Rozporządzenie o wysokości dodatków krajowych do państwowych podatków na potrzeby Galicji w r. 1919 z d. 4 lutego 1919 r. (Dz. Pr. Nr. 14 z.l 1919 poz. 189).</u>
+          <u xml:id="u-3.38" who="#OdPrezydentaMinistrow">32) Dekret w przedmiocie uprawnienia do udziału w obradach Sejmu Ustawodawczego Polaków, którzy w r. 1918 posiadali mandat poselski do parlamentu Rzeszy Niemieckiej z dnia T lutego 1919 r. (Dz. Pr. Nr. 14 za 1919 poz. 193).</u>
+          <u xml:id="u-3.39" who="#OdPrezydentaMinistrow">33) Dekret przodmiocie skarbowości powiatowych związków komunalnych z dnia 7 lutego 1919. (Dz. Pr. Nr. 14 za 1919 poz. 151).</u>
+          <u xml:id="u-3.40" who="#OdPrezydentaMinistrow">34) Dekret w przedmiocie przepisów prasowych z dnia 7 lutego 1919 r. (Dz. Pr. Nr. 14 za 1919 poz. 186).</u>
+          <u xml:id="u-3.41" who="#OdPrezydentaMinistrow">Dekrety przedstawione przez Ministerstwo Skarbu.</u>
+          <u xml:id="u-3.42" who="#OdPrezydentaMinistrow">1) Dekret Rady Regencyjnej Królestwa Polskiego w sprawie wypuszczenia pożyczki państwowej z dnia 30.X 1918 r. (Dz. Pr. Nr. 14 — data ogłoszenia 2.XI 1918 r.) 2) Ustawa Polskiej Krajowej Kasy Pożyczkowej z dnia 7.XII 1918 r. (Dz. Pr. Nr. 19 — data ogłoszenia 14.XII 1918 roku).</u>
+          <u xml:id="u-3.43" who="#OdPrezydentaMinistrow">3) Dekret w przedmiocie przyznania Magistratowi miasta Łodzi kredytu w wysokości 7,000,000 marek z d. 16.XII 1918r. (Dz. Pr. Nr. 20 — data ogłoszenia 20.XII 1918 r.).</u>
+          <u xml:id="u-3.44" who="#OdPrezydentaMinistrow">4) Dekret o zatwierdzeniu i zmianie Statutu Spółek Akcyjnych z d. 24.XII (Dz. Pr. Nr. 1 — data ogłoszenia 3.I 1919 r.).</u>
+          <u xml:id="u-3.45" who="#OdPrezydentaMinistrow">5) Dekret w przedmiocie upoważnienia dyrekcji Polskiej Krajowej Kasy Pożyczkowej do przygotowania 500,000,000 marek polskich z dnia 31.XII 1918 r. (Dz. Pr. Nr. 4 — data ogłoszenia 10.I 1919 r.).</u>
+          <u xml:id="u-3.46" who="#OdPrezydentaMinistrow">6) Dekret w przedmiocie opłat skarbowych od umów ubezpieczenia z dnia 7 stycznia 1919 r. (Dz. Pr. Nr. 7 — data ogłoszenia 18 stycznia 1919 r.).</u>
+          <u xml:id="u-3.47" who="#OdPrezydentaMinistrow">7) Dekret w przedmiocie przepisów skarbowych dla obszarów Polski, które podlegały władzy b. cesarsko-niemieckiego naczelnego dowódcy na wschodzie z d. 7 stycznia 1919 r. (Dz. Pr. Nr. 7 — data ogłoszenia d. 18 stycznia 1919 r.).</u>
+          <u xml:id="u-3.48" who="#OdPrezydentaMinistrow">8) Dekret w przedmiocie opłat od podań oraz od świadectw urzędowych z 7 lutego 1919 r. (Dz. Pr. Nr. 14 za 1919 poz. 145).</u>
+          <u xml:id="u-3.49" who="#OdPrezydentaMinistrow">9) Dekret w przedmiocie wprowadzenia podatku majątkowego z 5 lutego 1919 r. (Dz. Pr. Nr. 12 za 1919 r. poz. 135).</u>
+          <u xml:id="u-3.50" who="#OdPrezydentaMinistrow">10) Dekret w przedmiocie wprowadzenia podatków od zysków wojennych z 5 lutego 1919 r. (Dz. Pr. Nr. 12 za 1919 poz. 136).</u>
+          <u xml:id="u-3.51" who="#OdPrezydentaMinistrow">11) Dekret w przedmiocie organizacji Najwyższej Izby Kontroli Państwa z 7 lutego 1919. (Dz. Pr. Nr. 14 za 1919 poz. 183).</u>
+          <u xml:id="u-3.52" who="#OdPrezydentaMinistrow">12) Dekret o Prokuratorii Generalnej Rzeczypospolitej Polskiej z 7 lutego 1919. (Dz. Pr. Nr. 14 za 1919 poz. 181).</u>
+          <u xml:id="u-3.53" who="#OdPrezydentaMinistrow">13) Dekret o poborze jednorazowej daniny od nieruchomości i majątków w kapitale z d. 29.I 1919. (Dz. Pr. Nr. 11 za 1919 poz. 128).</u>
+          <u xml:id="u-3.54" who="#OdPrezydentaMinistrow">14) Dekret w sprawie uregulowania produkcji spirytusu z d. 29.1 1919 r. (Dz. Pr. Nr. 11 za 1919 poz. 130).</u>
+          <u xml:id="u-3.55" who="#OdPrezydentaMinistrow">15) Dekret o skarbie narodowym powstałym z ofiar prywatnych z d. 29.1 1919 r. (Dz. Pr. Nr. 11 za 1919 poz. 129).</u>
+          <u xml:id="u-3.56" who="#OdPrezydentaMinistrow">16) Dekret o zakazie wy wozu kruszców w monetach, sztabach i wyrobach z 4 lutego 1919 r. (Dz. Pr. Nr. 13 za 1919 p. 144).</u>
+          <u xml:id="u-3.57" who="#OdPrezydentaMinistrow">17) Dekret o amnestii podatkowej z 7 lutego 1919. (Dz. Pr. Nr. 14 za 1919 p. 191).</u>
+          <u xml:id="u-3.58" who="#OdPrezydentaMinistrow">18) Dekret o zmianie ustawy Tow. Kredytowego Ziemskiego z 7 lutego 1919 (Dz. Pr. Nr. 14 za 1919 p. 179).</u>
+          <u xml:id="u-3.59" who="#OdPrezydentaMinistrow">19) Dekret w przedmiocie jednostki monetarnej waluty polskiej z dnia 5.11 1919 r. (Dz. Pr. Nr. 14 za 1916 p. 174) 20) Dekret w przedmiocie upoważnienia dyrekcji Polskiej Krajowej Kasy Pożyczkowej do dalszego przygotowania 250,000,000 marek polskich z 7 lutego 1919 (Dz. Pr. Nr. 14 za 1919 p. 167).</u>
+          <u xml:id="u-3.60" who="#OdPrezydentaMinistrow">21) Dekret w przedmiocie przeznaczenia 75,000,000 mk. na ulgowe pożyczki dla przemysłowców z 7 lutego 1919 (Dz. Pr. Nr. 14 za 1919 p. 196).</u>
+          <u xml:id="u-3.61" who="#OdPrezydentaMinistrow">22) Dekret w sprawie ustalenia kompetencji Ministra Skarbu co do kierownictwa sprawami stowarzyszeń współdzielczych oraz kas gminnych.</u>
+          <u xml:id="u-3.62" who="#OdPrezydentaMinistrow">Dekrety przedstawione przez Ministerstwo Przemysłu i Handlu.</u>
+          <u xml:id="u-3.63" who="#OdPrezydentaMinistrow">1) Dekret o sekwestrze surowców, półfabrykatów i towarów. (Dz. Pr. Nr. 17 za 1918 r. Poz. 44).</u>
+          <u xml:id="u-3.64" who="#OdPrezydentaMinistrow">2) Dekret w przedmiocie utworzenia urzędu rozdzielczego w celu centralizacji zamówień rządowych. (Dz. Pr. Nr. 19 za 1918 r. Poz. 55) 3) Dekret tymczasowy o urzędzie patentowym (Dz. Pr. Nr. 21 za 1918 r. Poz. 66).</u>
+          <u xml:id="u-3.65" who="#OdPrezydentaMinistrow">4) Dekret o zatwierdzaniu i zmianie statutów spółek akcyjnych. (Dz. Pr. Nr. 1 za 1919 r. Poz. 78).</u>
+          <u xml:id="u-3.66" who="#OdPrezydentaMinistrow">5) Dekret w przedmiocie sekwestru surowców, półfabrykatów i towarów. (Dz. Pr. Nr. 10 za 1919 r. Poz. 124).</u>
+          <u xml:id="u-3.67" who="#OdPrezydentaMinistrow">6) Dekret o patentach na wynalazki. (Dz. Pr. Nr. 13 za 1919 r. Poz. 137).</u>
+          <u xml:id="u-3.68" who="#OdPrezydentaMinistrow">7) Dekret o ochronie wzorów rysunkowych i modeli. (Dz. Pr. Nr. 13 za 1919 r. Poz. 138).</u>
+          <u xml:id="u-3.69" who="#OdPrezydentaMinistrow">8) Dekret o ochronie znaków towarowych. (Dz. Pr. Nr. 13 za 1919 r. Poz. 139).</u>
+          <u xml:id="u-3.70" who="#OdPrezydentaMinistrow">9) Dekret w przedmiocie sekwestru skór i garbników. (Dz. Pr. Nr. 14 za 1919 r. Poz. 157).</u>
+          <u xml:id="u-3.71" who="#OdPrezydentaMinistrow">10) Dekret w przedmiocie zatwierdzania statutów zrzeszeń handlowo- przemysłowych o kapitale zmiennym, z 7 lutego 1919 r.</u>
+          <u xml:id="u-3.72" who="#OdPrezydentaMinistrow">11) Dekret w przedmiocie sekwestru zbiorników i cystern naftowych. (Dz. Pr. Nr. 14 za 1919 r. Poz. 69).</u>
+          <u xml:id="u-3.73" who="#OdPrezydentaMinistrow">12) Dekret o przekazaniu dozoru nad kotłami parowymi — „Warszawskiemu Stowarzyszeniu Dozoru nad Kotłami Parowymi”. (Dz. Pr. Nr. 14 za 1919 r. Poz. 158).</u>
+          <u xml:id="u-3.74" who="#OdPrezydentaMinistrow">13) Dekret o wywozie towarów za granicę, przywozie z zagranicy i przewozie tranzytowym. (Dz. Pr. Nr. 15 za 1919 r. Poz. 216).</u>
+          <u xml:id="u-3.75" who="#OdPrezydentaMinistrow">14) Dekret o miarach. (Dz. Pr. Nr. 15 za 1919 r. Poz. 211).</u>
+          <u xml:id="u-3.76" who="#OdPrezydentaMinistrow">Dekrety od Ministerstwa Sprawiedliwości.</u>
+          <u xml:id="u-3.77" who="#OdPrezydentaMinistrow">1) Dekret w przedmiocie niektórych zmian w kodeksie karnym i ustawie postępowania karnego. (Dz. Pr. Nr. 20 za 1918 r. Poz. 57).</u>
+          <u xml:id="u-3.78" who="#OdPrezydentaMinistrow">2) Dekret w przedmiocie przepisów o moratorium mieszkaniowym dla pozostających bez pracy (Dz. Pr. Nr. 20 za 1918 r. Poz. 62).</u>
+          <u xml:id="u-3.79" who="#OdPrezydentaMinistrow">3) Dekret w przedmiocie uzupełnienia i zmiany przepisów tymczasowych o moratorium w okręgu Sądu Apelacyjnego Lubelskiego (Dz. Pr. Nr. 21 za 1918 r. poz 71.) Dekret w przedmiocie przedłużenia terminów wekslowych w okręgu Sądu Apelacyjnego Warszawskiego (Dz. Nr. 21 za 1918 r. poz. 72).</u>
+          <u xml:id="u-3.80" who="#OdPrezydentaMinistrow">5) Dekret w przedmiocie złagodzenia niektórych kar wymierzonych przez b. sądy okupacyjne niemieckie (Dz. Pr. Nr. 21 za 1918 r. poz. 73).</u>
+          <u xml:id="u-3.81" who="#OdPrezydentaMinistrow">6) Dekret w przedmiocie statutu tymczasowego palestry Państwa Polskiego (Dz. Pr. Nr. 22 za 1918 r. poz. 75).</u>
+          <u xml:id="u-3.82" who="#OdPrezydentaMinistrow">7) Dekret w przedmiocie objęcia zarządu wymiaru sprawiedliwości w b. zaborze austriackim (Dz. Pr. Nr. 23 za 1918 r. poz. 79).</u>
+          <u xml:id="u-3.83" who="#OdPrezydentaMinistrow">8) Dekret w przedmiocie utworzenia sądu okręgowego w Białej, gub. Siedleckiej (Dz. Pr. Nr. 1 za 1919 r. poz. 77).</u>
+          <u xml:id="u-3.84" who="#OdPrezydentaMinistrow">9) Dekret w przedmiocie przywrócenia mocy obowiązującej części czwartej kodeksu karnego z 1993 r. (Dz. Pr. Nr. 1 za 1919 r. poz. 81).</u>
+          <u xml:id="u-3.85" who="#OdPrezydentaMinistrow">10) Dekret w przedmiocie wyborów sędziów handlowych (Dz. Pr Nr. 3 za 1919 r. poz. 83).</u>
+          <u xml:id="u-3.86" who="#OdPrezydentaMinistrow">11) Dekret w przedmiocie utworzenia sądu okręgowego w Suwałkach (Dz. Pr. Nr. 8 za 1919 r. poz. 115).</u>
+          <u xml:id="u-3.87" who="#OdPrezydentaMinistrow">12) Dekret w przedmiocie zawieszenia biegu terminów i przedawnień (Dz. Pr. Nr. 9 za 1919 r. poz. 121).</u>
+          <u xml:id="u-3.88" who="#OdPrezydentaMinistrow">13) Dekret w przedmiocie rozciągnięcia na okręgi: Bialski i Suwalski przepisów dotyczących zarządu i wymiaru sprawiedliwości. (Dz. Pr. Nr. 14 za 1919 r. poz. 188).</u>
+          <u xml:id="u-3.89" who="#OdPrezydentaMinistrow">14) Dekret o nietykalności członków Sejmu Ustawodawczego. (Dz. Pr. Nr. 14 za 1919 r. poz. 178).</u>
+          <u xml:id="u-3.90" who="#OdPrezydentaMinistrow">15) Dekret o dyslokacji sądów. (Dz. Pr. Nr. 14 za 1919 r. poz. 170).</u>
+          <u xml:id="u-3.91" who="#OdPrezydentaMinistrow">16) Dekret w przedmiocie taksy dla komorników sądowych (Dz. Pr. Nr. 12 za 1919 r. poz. 131).</u>
+          <u xml:id="u-3.92" who="#OdPrezydentaMinistrow">17) Dekret o odpowiedzialności ławników. (Dz. Pr. Nr. 14 za 1919 r. poz. 160).</u>
+          <u xml:id="u-3.93" who="#OdPrezydentaMinistrow">18) Dekret w przedmiocie organizacji okręgowych dyrekcji więziennych. (Dz. Pr. Nr. 14 za 1919 r. poz. 173).</u>
+          <u xml:id="u-3.94" who="#OdPrezydentaMinistrow">19) Dekret w przedmiocie utworzenia sądów dla nieletnich. (Dz. Pr. Nr. 14 za 1919 r. poz. 171).</u>
+          <u xml:id="u-3.95" who="#OdPrezydentaMinistrow">20) Dekret o tymczasowych przepisach więziennych. (Dz. Pr. Nr. 15 za 1919 r. poz. 202).</u>
+          <u xml:id="u-3.96" who="#OdPrezydentaMinistrow">21) Dekret o rejestrze handlowym. (Dz. Pr. Nr. 14 za 1919 r. 164).</u>
+          <u xml:id="u-3.97" who="#OdPrezydentaMinistrow">22) Dekret o spółkach z ograniczoną odpowiedzialnością. (Dz. Pr. Nr. 15 za 1919 r. poz. 201).</u>
+          <u xml:id="u-3.98" who="#OdPrezydentaMinistrow">23) Dekret w przedmiocie ustroju Sądu Najwyższego. (Dz. Pr. Nr. 15 za 1919 r. poz. 199).</u>
+          <u xml:id="u-3.99" who="#OdPrezydentaMinistrow">24) Dekret w przedmiocie przepisów tymczasowych o wynagrodzeniu adwokatów. (Dz. Pr. Nr. 15 za 1919 r. poz. 203).</u>
+          <u xml:id="u-3.100" who="#OdPrezydentaMinistrow">25) Dekret w przedmiocie zmian w urządzeniach wymiaru sprawiedliwości w b. zaborze austriackim. (Dz. Pr. Nr. 15 za 1919 r. poz. 200).</u>
+          <u xml:id="u-3.101" who="#OdPrezydentaMinistrow">26) Dekret w przedmiocie taksy dla pisarzy hipotecznych. (Dz. Pr. Nr. 15 za 1919 r. poz. 204).</u>
+          <u xml:id="u-3.102" who="#OdPrezydentaMinistrow">27) Dekret w przedmiocie przepisów tymczasowych o obrońcach sądowych i obrońcach przy sądach pokoju. (Dz. Pr. Nr. 15 za 1919 r. poz. 205).</u>
+          <u xml:id="u-3.103" who="#OdPrezydentaMinistrow">28) Dekret w przedmiocie uchylenia rozporządzeń b. władz okupacyjnych w zakresie sądowego prawa karnego dla osób cywilnych. (Dz. Pr. Nr. 15 za 1919 poz. 206).</u>
+          <u xml:id="u-3.104" who="#OdPrezydentaMinistrow">29)Dekret w przedmiocie zmiany art. 5, dekretu o karach za lichwę wojenną z dnia 8 lutego 1919 r.</u>
+          <u xml:id="u-3.105" who="#OdPrezydentaMinistrow">30) Dekret w przedmiocie tekstu kodeksu karnego z dnia 8 lutego 1919 r.</u>
+          <u xml:id="u-3.106" who="#OdPrezydentaMinistrow">Dekrety przedstawione przez Ministerstwo Ochrony Pracy i Opieki Społecznej.</u>
+          <u xml:id="u-3.107" who="#OdPrezydentaMinistrow">1) Dekret o 8-o godzinnym dniu pracy, zatwierdzony przez Naczelnika Państwa dnia 23 listopada 1918 r. i ogłoszony w numerze 17 Dz. Pr. dn. 29 listopada 1918 r.p. 42.</u>
+          <u xml:id="u-3.108" who="#OdPrezydentaMinistrow">2) Dekret tymczasowy o urządzeniu i działalności Inspekcji Pracy, zatwierdzony przez Naczelnika Państwa dnia 3 stycznia 1919 r. i ogłoszony w numerze 5 Dz. Pr. dn. 13 stycznia 1919 r. p. 90.</u>
+          <u xml:id="u-3.109" who="#OdPrezydentaMinistrow">3) Przepisy tymczasowe o wynagrodzeniu urzędników inspekcji pracy, zatwierdzone przez Naczelnika Państwa dn. 3 stycznia 1919 r. i ogłoszone w Nr. 5 Dz. Pr. dn. 13 stycznia 1919 roku.p. 91.</u>
+          <u xml:id="u-3.110" who="#OdPrezydentaMinistrow">4) Dekret o obowiązkowym ubezpieczeniu na wypadek choroby, zatwierdzony przez Naczelnika Państwa dn. 11 stycznia 1919 r. i ogłoszony w Nr. 9 Dz. Pr. d. 29 stycznia 1919 r.p. 122.</u>
+          <u xml:id="u-3.111" who="#OdPrezydentaMinistrow">5) Dekret o organizacji państwowych urzędów pośrednictwa pracy i opieki nad wychodźcami, zatwierdzony przez Naczelnika Państwa dn. 27 stycznia i 1919 r. i ogłoszony w Nr. 11 Dz. Pr. d. 4 lutego 1919 r. p. 127.I 6) Dekret w przedmiocie tymczasowych przepisów o pracowniczych związkach zawodowych, zatwierdzony przez Naczelnika Państwa d. 8 lutego 1919 r. i ogłoszony w Nr. 15 Dz. Pr. p. 209.</u>
+          <u xml:id="u-3.112" who="#OdPrezydentaMinistrow">Dekrety przedstawione przez Ministerstwo Robót Publicznych.</u>
+          <u xml:id="u-3.113" who="#OdPrezydentaMinistrow">1) Dekret o utworzeniu Ministerstwa Robót Publicznych z dn. 25 stycznia 1919 r. (Dz. Pr. Nr. 8 za 1919 p. 118).</u>
+          <u xml:id="u-3.114" who="#OdPrezydentaMinistrow">2)Tymczasowe przepisy o zarządzie drogami kołowemi z 7 lutego. (Dz. Pr. Nr. 14 za 1919 r. p. 149).</u>
+          <u xml:id="u-3.115" who="#OdPrezydentaMinistrow">3) Dekret w przedmiocie tymczasowych przepisów budowlanych na [nieczytelne] b. zaboru rosyjskiego, z dn. 7 lutego 1919 r. (Dz. Pr. Nr. 14 za 1919 r. p. 176).</u>
+          <u xml:id="u-3.116" who="#OdPrezydentaMinistrow">4) Dekret o przeniesieniu spraw żeglugi z Ministerstwa Komunikacji do Ministerstwa Robót Publicznych, z dn. 8 lutego 1919 r.</u>
+          <u xml:id="u-3.117" who="#OdPrezydentaMinistrow">Dekrety przedstawione przez Ministerstwo Sztuki i Kultury:</u>
+          <u xml:id="u-3.118" who="#OdPrezydentaMinistrow">1) Dekret Rady Regencyjnej o opiece nad zabytkami sztuki i kultury z dnia 31 października 1918 r., ogłoszony w Dz. Pr. dnia 8 listopada 1918 r. Nr. 16 poz. 36).</u>
+          <u xml:id="u-3.119" who="#OdPrezydentaMinistrow">2) Statut Rady Sztuk Pięknych zatwierdzony reskryptem Rady Regencyjnej dnia 13 września 1918 r., ogłoszony w Monitorze Polskim dnia 18 września 1918 r. Nr. 152.</u>
+          <u xml:id="u-3.120" who="#OdPrezydentaMinistrow">3) Dekret o utworzeniu Ministerstwa Sztuki i Kultury, z dnia 5 grudnia 1918 r., ogłoszony w Dz. Pr. z dnia 14 grudnia 1918 r. Nr. 19 (Poz. 52).</u>
+          <u xml:id="u-3.121" who="#OdPrezydentaMinistrow">4) Dekret o zatwierdzaniu projektów pomników ze stanowiska artystyczne go z dnia 3 stycznia 1919 r., ogłoszony w Dz. Pr. z dnia 13 stycznia 1919 r. Nr. 5 (poz. 93j.</u>
+          <u xml:id="u-3.122" who="#OdPrezydentaMinistrow">5) Dekret w przedmiocie zmiany ustawy Instytutu Muzycznego z dnia 23 maja 1889 r., uchwalony przez Radę Ministrów i zatwierdzony przez Naczelnika Państwa w dniu 7 lutego 1919 (Dz. Pr. Nr. 15 za 1919 p. 214).</u>
+          <u xml:id="u-3.123" who="#OdPrezydentaMinistrow">Dekrety przedstawione przez Ministerstwo Komunikacji:</u>
+          <u xml:id="u-3.124" who="#OdPrezydentaMinistrow">1) Dekret o wywłaszczeniu przymusowem na rzecz dróg komunikacyjnych z 7 lutego 1919 (Dz. Pr. Nr. 14 za [nieczytelne] p. 162).</u>
+          <u xml:id="u-3.125" who="#OdPrezydentaMinistrow">2) Dekret o tymczasowem wydaniu przepisów przewozowych i taryfowych z 7 lutego 1919 (Dz. Pr. Nr. 14 za 1919 p. 152).</u>
+          <u xml:id="u-3.126" who="#OdPrezydentaMinistrow">3) Dekret o unieważnieniu koncesji na budowę kolei wydanych przez b. rząd rosyjski i b. władze okupacyjne z 7 lutego 1919 (Dz. Pr. Nr. 14 za 1919 p. 195).</u>
+          <u xml:id="u-3.127" who="#OdPrezydentaMinistrow">4) Dekret o przejściu kolei [nieczytelne] przez b. władze okupacyjne pod zarząd Ministerstwa kolei z 7 lutego 1919 (Dz. Pr. Nr. 14 za 1919 p. 155).</u>
+          <u xml:id="u-3.128" who="#OdPrezydentaMinistrow">5) Dekret z Ustawą tymczasowej Kasy Przezorności pracowników kolei państwowych polskich w b. zaborze rosyjskim z 8 lutego 1919 (Dz. Pr. Nr. 15 za 1919 p. 210).</u>
+          <u xml:id="u-3.129" who="#OdPrezydentaMinistrow">Dekrety przedstawione przez Ministerstwo Aprowizacji:</u>
+          <u xml:id="u-3.130" who="#OdPrezydentaMinistrow">1)Dekret z dnia 26 października 1918 (Dz. Pr. Nr. 14 poz. 30) o utworzeniu Ministerstwa Aprowizacji.</u>
+          <u xml:id="u-3.131" who="#OdPrezydentaMinistrow">2) Dekret z dnia 18 grudnia 1918 r. (Dz. Pr. Nr. 21 poz. 69) w sprawie utworzenia państwowego Urzędu zakupu artykułów pierwszej potrzeby.</u>
+          <u xml:id="u-3.132" who="#OdPrezydentaMinistrow">3) Dekret w sprawie Statutu państwowego Urzędu zakupu artykułów pierwszej potrzeby z dnia 2 stycznia 1919 r. (Dz. Urz. Nr. 7).</u>
+          <u xml:id="u-3.133" who="#OdPrezydentaMinistrow">4) Dekret z dnia 18 grudnia 1918 r. (Dz. Pr. Nr. 21 poz. 70) w sprawie utworzenia Straży granicznej.</u>
+          <u xml:id="u-3.134" who="#OdPrezydentaMinistrow">5) Dekret z dnia 11 stycznia 1919 r. (Dz. Pr. Nr. 7 poz. 108) w sprawie utworzenia Państwowej Rady Aprowizacyjnej.</u>
+          <u xml:id="u-3.135" who="#OdPrezydentaMinistrow">6) Dekret z dnia 11 stycznia 1919 r (Dz. Pr. Nr. 7 poz. 109) w sprawie utworzenia Urzędu Walki z lichwą i spekulacją przy Ministerstwie Aprowizacji.</u>
+          <u xml:id="u-3.136" who="#OdPrezydentaMinistrow">7) Dekret z dnia 11 stycznia 1919 r. (Dz. Pr. Nr. 8 poz. 114) w sprawie utworzenia tymczasowych powiatowych Rad Aprowizacyjnych.</u>
+          <u xml:id="u-3.137" who="#OdPrezydentaMinistrow">8) Dekret z dnia 29 stycznia 1919 r. (Dz. Pr. Nr. 10 poz. 126) w sprawie odpowiedzialności za niedostarczanie ziemiopłodów w terminach przepisanych.</u>
+          <u xml:id="u-3.138" who="#OdPrezydentaMinistrow">9) Dekret z dnia 30 stycznia 1919 r. (Dz. Pr. Nr. 11 poz. 130) w sprawie uregulowania produkcji spirytusu.</u>
+          <u xml:id="u-3.139" who="#OdPrezydentaMinistrow">Dekrety przedstawione przez Ministerstwo Wyznań Religijnych i Oświecenia Publicznego:</u>
+          <u xml:id="u-3.140" who="#OdPrezydentaMinistrow">1) Dekret Rady Regencyjnej o Opiece nad zabytkami Sztuki i kultury z dnia 31 października 1918 r. (Dzien.</u>
+          <u xml:id="u-3.141" who="#OdPrezydentaMinistrow">Praw z dnia 8 listopada 1818 r. Nr 16 poz. 36).</u>
+          <u xml:id="u-3.142" who="#OdPrezydentaMinistrow">2) Dekret o utworzeniu Ministerstwa Sztuki i Kultury z dnia 5 grudnia 1918 r. (Dz. Praw z dnia 14 grudnia 1918 r. Nr. 19 poz. 52).</u>
+          <u xml:id="u-3.143" who="#OdPrezydentaMinistrow">3) Dekret tymczasowy o stabilizacji i wynagrodzeniu nauczycieli szkół powszechnych z dnia 18 grudnia 1918 r. (Dz. Praw z dnia 28 grudnia 1918 r. Nr. 21 poz. 65).</u>
+          <u xml:id="u-3.144" who="#OdPrezydentaMinistrow">4) Dekret w przedmiocie mianowania pierwszego składu profesorów w Uniwersytecie Warszawskim z dnia 7 stycznia 1919 r. (Dz. Praw z dnia 13 stycznia 1919 r. Nr. 5 poz. 94).</u>
+          <u xml:id="u-3.145" who="#OdPrezydentaMinistrow">5) Dekret w przedmiocie mianowania pierwszego składu profesorów w Politechnice Warszawskiej z dnia 8 stycznia 1919 r. (Dz. Praw z dnia 13 stycznia 1919 r. Nr. 5 poz. 95).</u>
+          <u xml:id="u-3.146" who="#OdPrezydentaMinistrow">6) Dekret o obowiązku szkolnym z dnia 7 lutego 1919 r. (Dz. Praw z. lutego 1919 r. Nr. 14 poz. 147).</u>
+          <u xml:id="u-3.147" who="#OdPrezydentaMinistrow">7) Dekret o fundacjach i zatwierdzaniu darowizn i zapisu dnia 7 lutego 1919 r. (Dz. Praw z lutego 1919 r. Nr. 15 poz 215).</u>
+          <u xml:id="u-3.148" who="#OdPrezydentaMinistrow">8) Dekret o rozciągnięciu na Wydział Teologiczny Uniwersytetu Warszawskiego mocy obowiązującej dekretu w przedmiocie mianowania pierwszego składu profesorów tegoż Uniwersytetu z dnia 7 lutego 1919 r. (Dz. Praw z lutego 1919 r. Nr. 14 poz. 165).</u>
+          <u xml:id="u-3.149" who="#OdPrezydentaMinistrow">9) Dekret o wprowadzeniu języka polskiego jako wykładowego w 2-gim gimnazjum we Lwowie z dnia 7 lutego 1919 r. (Dz. Praw z lutego 1919 r. Nr. 14 poz. 166).</u>
+          <u xml:id="u-3.150" who="#OdPrezydentaMinistrow">10) Dekret o kształceniu nauczycieli szkół powszechnych w państwie polskiem dnia 7 lutego 1919 r. ogłoszony w Dz. Praw z lutego 1919 r. Nr. 14 p. 185.</u>
+          <u xml:id="u-3.151" who="#OdPrezydentaMinistrow">11) Dekret o zmianach w organizacji gmin wyznaniowych żydowskich na terytorium b. Królestwa Kongresowego z dnia 7 lutego 1919 r. (Dz. Praw z lutego 1919 r. Nr. 14 p. 175.).</u>
+          <u xml:id="u-3.152" who="#OdPrezydentaMinistrow">12) Dekret o odpowiedzialności dyscyplinarnej nauczycieli publicznych szkół powszechnych i postępowaniu dyscyplinarnym z dnia 7 lutego 1919 r. (Dz. Praw z lutego 1919 r. Nr. 14 p. 187).</u>
+          <u xml:id="u-3.153" who="#OdPrezydentaMinistrow">13) Dekret o szkołach z niemieckim językiem wykładowym z dn. 7 lutego 1919 r. (Dz. Praw z dnia 7 lutego 1919 r. Nr. 14 p. 192).</u>
+          <u xml:id="u-3.154" who="#OdPrezydentaMinistrow">14) Statut Szkoły Głównej Gospodarstwa Wiejskiego w Warszawie z dnia 7 lutego 1919 r. (Dz. Praw z dnia 7 lutego 1919 r. Nr. 14 p. 148).</u>
+          <u xml:id="u-3.155" who="#OdPrezydentaMinistrow">15) Dekret o organizacji archiwów państwowych i opiece nad archiwaliami z dn. 7 lutego 1919 r. (Dz. Praw z lutego 1919 r. Nr. 14 p. 182).</u>
+          <u xml:id="u-3.156" who="#OdPrezydentaMinistrow">16) Dekret o zmianie przepisów przechodnich do dekretu o stabilizacji i wynagrodzeniu nauczycieli szkół powszechnych z dnia 18 grudnia 1918 r., (Dz. Praw z lutego 1919 r. Nr. 15 p. 208).</u>
+          <u xml:id="u-3.157" who="#OdPrezydentaMinistrow">Dekret przedstawiony przez Ministerstwo Spraw Zagranicznych:</u>
+          <u xml:id="u-3.158" who="#OdPrezydentaMinistrow">1) Dekret o utworzeniu ministerstw: Spraw Zewnętrznych, Spraw Wojskowych, Komunikacji i Aprowizacji z dnia 26 października 1918 r. (Dz. Praw^ ^Nr. 14 poz. 30).</u>
+          <u xml:id="u-3.159" who="#OdPrezydentaMinistrow">Dekrety przedstawione przez Ministerstwa Rolnictwa i Dóbr Państwowych:</u>
+          <u xml:id="u-3.160" who="#OdPrezydentaMinistrow">1) Reskrypt Rady Regencyjnej w przedmiocie utworzenia Państwowej Rady Rolniczej przy Ministerstwie Rolnictwa i Dóbr Koronnych z dnia 19 lipca 1918 r. („Mon. Pol.” Nr. 105 dn.</u>
+          <u xml:id="u-3.161" who="#OdPrezydentaMinistrow">25 lipca 1918 r.) 2)Reskrypt Rady Regencyjnej w przedmiocie wyłączenia z kompetencji Ministra Wyznań Religijnych i Oświecenia Publicznego zarządu szkolnictwa Rolniczego niższego stopnia i przekazania tegoż zarządu Ministrowi Rolnictwa i Dóbr Koronnych z dn. 7 września 1918 r. („Mon. Pol.” Nr 148 z dn. 13 września 1918 r.) 3) Dekret Rady Regencyjnej w przedmiocie przepisów tymczasowych o urzędach ziemskich z dnia 11 października 1918 r. (Dz. Praw Nr. 11 dn. 16 października 1918 r. poz. 22), oraz dołączone do tegoż dekretu przepisy we o urzędach ziemskich.</u>
+          <u xml:id="u-3.162" who="#OdPrezydentaMinistrow">4) Dekret Rady Regencyjnej w przedmiocie Dóbr Donacyjnych z dnia 1-go listopada 1918 r. (Dz. Praw Nr. 15 z dnia 5 listopada 1918 r. poz. 35).</u>
+          <u xml:id="u-3.163" who="#OdPrezydentaMinistrow">5) Dekret Naczolnika Państwa w przedmiocie przymusowego zarządu państwowego z dnia 16 grudnia 1918 r. (Dz. Pr. Nr. 21 z dn. 28 grudnia 1918 r. poz. 67).</u>
+          <u xml:id="u-3.164" who="#OdPrezydentaMinistrow">6) Dekret Naczelnika Państwa w przedmiocie ochrony majątków nieobecnych właścicieli z dn. 16 grudnia 1918 r. (Dz. Pr. Nr. 21 z dn. 28 grudnia 1918 r. poz. 68).</u>
+          <u xml:id="u-3.165" who="#OdPrezydentaMinistrow">7) Dekret Naczelnika Państwa w przedmiocie wyłączenia z kompetencji Ministra Spraw Wewnętrznych służby weterynaryjnej i przekazanie tejże służby kompetencji Ministra Rolnictwa i Dóbr Państwowych z dn. 31 grudnia 1918 r. (Dz. Pr. Nr. 5 z dn. 13 stycznia 1919 r. poz. 92).</u>
+          <u xml:id="u-3.166" who="#OdPrezydentaMinistrow">8) Dekret Naczelnika Państwa w przedmiocie umów zawartych przez b. władze okupacyjne co do majątku państwowego z dn. 11 stycznia 1919 r. (Dz. Pr. Nr 5. z dn. 13 stycznia 1919 r. poz. 99.) 9) Dekret Naczelnika Państwa w przedmiocie organizacji urzędów ochrony lasów z dn. 16 stycznia 1919 r. (Dz. Pr. Nr. 8 z dnia 25 stycznia 1919 r. poz. 118).</u>
+          <u xml:id="u-3.167" who="#OdPrezydentaMinistrow">10) Dekret Naczelnika Państwa w przedmiocie rozciągnięcia mocy obowiązującej przepisów tymczasowych o urzędach ziemskich na Galicję i Ślązk z lutego 1919 r.</u>
+          <u xml:id="u-3.168" who="#OdPrezydentaMinistrow">11) Dekret Naczelnika Państwa w przedmiocie rekwizycji lokali na potrzeby urzędów państwowych z 8 lutego 1919 r. (Dz. Pr. Nr. 14 za 1919 r. poz. 197).</u>
+          <u xml:id="u-3.169" who="#OdPrezydentaMinistrow">12) Dekret Naczelnika Państwa w przedmiocie przeniesienia siedziby Centralnej Kasy Spółek Rolniczych ze Lwowa do Warszawy z 8 lutego 1919 r. (Dz. Pr. Nr. 15 za 1919 r. poz. 212).</u>
+          <u xml:id="u-3.170" who="#OdPrezydentaMinistrow">13) Dekret Naczelnika Państwa w przedmiocie statutu polskiego państwowego Banku Rolnego z lutego 1919 r.</u>
+          <u xml:id="u-3.171" who="#OdPrezydentaMinistrow">14) Dekret Naczelnika Państwa upoważniający Ministra Rolnictwa i Dóbr Państwowych do podjęcia parcelacji majątków b. ros. Banku włościańskiego i do wydzierżawiania dóbr państwowych małorolnym i bezrolnym z dn. 8 lutego 1919 r. i Dz. Pr. Nr. 14 za 1919 r. poz. 156).</u>
+          <u xml:id="u-3.172" who="#OdPrezydentaMinistrow">Dekrety przedstawione przez Ministerstwo Zdrowia Publicznego:</u>
+          <u xml:id="u-3.173" who="#OdPrezydentaMinistrow">1) Dekret o utworzeniu Ministerstwa Zdrowia Publicznego, Opieki Społecznej i Ochrony Pracy, z dn. 4 kwietnia 1918r. (Dz. Pr. Nr. 5 za 1918 r. p. 8).</u>
+          <u xml:id="u-3.174" who="#OdPrezydentaMinistrow">2) Dekret o utworzeniu Ministerstwa Zdrowia Publicznego i Opieki Społecznej i Ministerstwa Ochrony Pracy z dn. 30 października 1918 r. (Dz. Pr. Nr. 14 za 1918 r. p. 31) 3) Przepisy o ustanowieniu państwowego nadzoru mieszkaniowego z dn. 11 stycznia 1919 r. (Dz. Pr. Nr. 7 za 1919 r. p. 110).</u>
+          <u xml:id="u-3.175" who="#OdPrezydentaMinistrow">4) Dekret o ochronie lokatorów i za pobieganiu brakowi mieszkań z dn. 16 stycznia 1919 r. (Dz. Pr. Nr. 8 za 1919 r. p. 116).</u>
+          <u xml:id="u-3.176" who="#OdPrezydentaMinistrow">5) Dekret o przymusowym szczepieniu ochronnym przeciwko ospie z 7 lutego 1919</u>
+          <u xml:id="u-3.177" who="#komentarz">(Dz.</u>
+          <u xml:id="u-3.178" who="#OdPrezydentaMinistrow">Pr. Nr. 14 za 1919 r. p. 180).</u>
+          <u xml:id="u-3.179" who="#OdPrezydentaMinistrow">6) Dekret w przedmiocie zwalczania chorób zakaźnych i innych chorób występujących nagminnie z 7 lutego 1919 r. (Dz. Pr. Nr. 14 za 1919 r. p. 184).</u>
+          <u xml:id="u-3.180" who="#OdPrezydentaMinistrow">7) Państwowa zasadnicza ustawa sanitarna z 8 lutego 1919 r. (Dz. Pr. Nr. 15 za 1919 r. p. 267).</u>
+          <u xml:id="u-3.181" who="#OdPrezydentaMinistrow">8) Dekret w sprawie zmiany dekretu o państwowym urzędzie do spraw jeńców.</u>
+          <u xml:id="u-3.182" who="#OdPrezydentaMinistrow">9) Dekret o nadzorze nad wyrobem i sprzedażą artykułów zastępczych — surogatów, produktów spożywczych i przedmiotów użytku publicznego z 7 lutego 1919 r. (Dz. Pr. Nr. 14 za 1919 i r. p. 161).</u>
+          <u xml:id="u-3.183" who="#OdPrezydentaMinistrow">Dekrety przedstawione przez Ministerstwo Spraw Wojskowych:</u>
+          <u xml:id="u-3.184" who="#OdPrezydentaMinistrow">1) Tymczasowa ustawa o powszechnym obowiązku służby wojskowej (Dz. Pr. Nr. 13 1918 r. poz. 28).</u>
+          <u xml:id="u-3.185" who="#OdPrezydentaMinistrow">2) Dekret w sprawie zmiany art. 9 dekretu o ordynacji wyborczej do Sejmu Ustawodawczego ( Dz. Pr. Nr. 18 za 1918 p. 46).</u>
+          <u xml:id="u-3.186" who="#OdPrezydentaMinistrow">3) Dekret w sprawie częściowego poboru (Dz. Pr. Nr. 7 1919 r. poz. 48).</u>
+          <u xml:id="u-3.187" who="#OdPrezydentaMinistrow">4) Dekret w przedmiocie niektórych zmian w tymczasowej ustawie o powszechnym obowiązku służby wojskowej (Dz. Pr. Nr. 8 poz. 119).</u>
+          <u xml:id="u-3.188" who="#OdPrezydentaMinistrow">5) Dekret o powołaniu do służby czynnej wojskowej lekarzy w wieku do lat 35-ciu (Dz. Pr. Nr. 8 1919 r. poz. 126).</u>
+          <u xml:id="u-3.189" who="#OdPrezydentaMinistrow">6) Dekret o powołaniu do służby wojskowej lekarzy weterynaryjnych do 45-ciu lat z 6 lutego 1919 (Dz. Pr. Nr. 14 za 1919 p. 194).</u>
+          <u xml:id="u-3.190" who="#OdPrezydentaMinistrow">7) Dekret o odpowiedzialności za uchylenie się od służby wojskowej z 4 lutego 1919 (Dz. Pr. Nr. 14 za 1919 p. 168).</u>
+          <u xml:id="u-3.191" who="#OdPrezydentaMinistrow">8) Tymczasowe przepisy o ustaleniu kompetencji poszczególnych ministerstw w odniesieniu do budownictwa (Uchwała Rady Ministrów z dn. 23 sierpnia 1918 r. i 9 stycznia 1919 r.) 9) Dekret o poborach oficerów, podoficerów i szeregowców (Dz. Roz. Min. Spr. Wojsk. Nr. 6 1918 r. poz. 110).</u>
+          <u xml:id="u-3.192" who="#OdPrezydentaMinistrow">10) Dekret o wypłatach za medale austriackie (Dz. Roz. Woj. Nr. 10 1918 r. poz. 231).</u>
+          <u xml:id="u-3.193" who="#OdPrezydentaMinistrow">11) Dekret o dodatkach dla oficerów w poselstwie w Wiedniu (Dz. Roz. Woj. Nr. 10 1918 r. poz. 232).</u>
+          <u xml:id="u-3.194" who="#OdPrezydentaMinistrow">12) Dekret o dodatkach funkcyjnych (Dz. Roz. Woj. Nr. 11 1918r. poz. 268).</u>
+          <u xml:id="u-3.195" who="#OdPrezydentaMinistrow">13) Dekret o ustanowieniu majstrów wojskowych (Dz. Roz. Woj. 1918 r. Nr. 11 poz. 274).</u>
+          <u xml:id="u-3.196" who="#OdPrezydentaMinistrow">14) Dekret o przepisach o sanitariuszkach i pielęgniarkach (Dz. Roz. Wojsk. Nr. 10 1919 r. poz. 372).</u>
+          <u xml:id="u-3.197" who="#OdPrezydentaMinistrow">15) Rozkaz o dodatku na wiekwipowanie dla oficerów (Dz. Roz. Wojsk. Nr. S 1918 r. poz. 163).</u>
+          <u xml:id="u-3.198" who="#OdPrezydentaMinistrow">16) Rozkaz o dodatku dla oficerów poselstwa polskiego w Kijowie (Dz. Roz. Wojsk. Nr. 8 1918 r. poz. 166).</u>
+          <u xml:id="u-3.199" who="#OdPrezydentaMinistrow">17) Rozkaz o dodatku podręcznym dla żołnierzy (Dz. Roz. Woj. Nr. 10 1918 r. poz. 259).</u>
+          <u xml:id="u-3.200" who="#OdPrezydentaMinistrow">18) Rozkaz o dodatku dla lotników, pilotów i obserwatorów (Dz. Rozk. Woj. Nr. 1 1919 r. poz. 26).</u>
+          <u xml:id="u-3.201" who="#OdPrezydentaMinistrow">19) Rozkaz o poborach oficerów przy zwalnianiu ze służby czynnej (Dz. Rozk. Wojsk. Nr. 7 1018 poz. 286).</u>
+          <u xml:id="u-3.202" who="#OdPrezydentaMinistrow">20) Rozkaz o dodatkach polowych dla oficerów operujących na frontach (Dz. Rozk. Wojsk. Nr. 12 1919 r. poz. 437).</u>
+          <u xml:id="u-3.203" who="#OdPrezydentaMinistrow">21) Rozkaz o zasiłkach dla rodzin żołnierzy wojska polskiego.</u>
+          <u xml:id="u-3.204" who="#OdPrezydentaMinistrow">22) Rozkaz o funkcyjnych dodatkach dla sądowników.</u>
+          <u xml:id="u-3.205" who="#OdPrezydentaMinistrow">23) Rozkaz o poborach oficerów i szeregowców przydzielonych dla służby straży granicznej (Dz. Rozk. Wojsk. Nr. 14. 1919 r. poz. 512).</u>
+          <u xml:id="u-3.206" who="#OdPrezydentaMinistrow">24) Rozkaz w sprawie wykonania robót, remontowych i budowlanych (Dz. Roz. Wojsk. Nr. 14 1919 r. poz. 513.) 25) Dekret w przedmiocie objęciu przez Radę Regencyjną władzy zwierzchnej nad wojskiem (Dz. Pr. Nr. 13 1918 r. Ust. 26).</u>
+          <u xml:id="u-3.207" who="#OdPrezydentaMinistrow">26) Dekret o przystąpieniu do formowania Narodowej Armii regularnej (Dz. Pr. Nr. 13 1918 ust. 27).</u>
+          <u xml:id="u-3.208" who="#OdPrezydentaMinistrow">27) Dekret w przedmiocie ustanowienia urzędu Szefa Sztabu Wojsk Polskich (Dz. Pr. Nr. 13 1918 ust. 29).</u>
+          <u xml:id="u-3.209" who="#OdPrezydentaMinistrow">28) Dekret w przedmiocie tworzenia Armii Narodowej (Dz. Pr. Nr. 15 1918 r. ust. 34).</u>
+          <u xml:id="u-3.210" who="#OdPrezydentaMinistrow">29) Dekret o wyjęciu z pod mobilizacji osób pełniących służbę przy władzach i urzędach państwowych (Dz. Pr. Nr. 19 1918 r. ust. 54).</u>
+          <u xml:id="u-3.211" who="#OdPrezydentaMinistrow">Dekrety przedstawione przez Ministerstwo Poczt i Telegrafów:</u>
+          <u xml:id="u-3.212" who="#OdPrezydentaMinistrow">1) Dekret o ustawie pocztowej.</u>
+          <u xml:id="u-3.213" who="#OdPrezydentaMinistrow">2) Dekret o powołaniu do życia — „Pocztowej Kasy Oszczędnościowej” z 7 lutego 1919 (Dz. Pr. Nr. 14 za 1919 p. 163).</u>
+        </div>
+        <div xml:id="div-4">
+          <u xml:id="u-4.0" who="#MarszalekposelFerdynandRadziwill">Dekrety powyższe będą przesłane do mającej się wybrać komisji prawniczej.</u>
+          <u xml:id="u-4.1" who="#MarszalekposelFerdynandRadziwill">Zapraszam przywódców frakcji na posiedzenie Konwentu Seniorów na godzinę 7 dziś wieczór w salonie marszałka, celem omówienia podziału posłów na wydziały dla sprawdzania mandatów podług projektu ułożonego przez Biuro sejmowe.</u>
+          <u xml:id="u-4.2" who="#MarszalekposelFerdynandRadziwill">Mam jeszcze do nadmienienia, że wbrew zarządzeniom Biura sejmowego publiczność zajęła część sali sejmowej. Naturalnie, że dziś żadnych kroków przeciw temu nie będzie, ale zaznaczam, że na przyszłe posiedzenia publiczność nie będzie do sali dopuszczana; zwłaszcza zaś zastrzegam, żeby publiczność wstrzymywała się od wszelkich braw, oklasków, czy oznak niezadowolenia, gdyż podczas obrad Sejmu jest to niedopuszczalne.</u>
+          <u xml:id="u-4.3" who="#MarszalekposelFerdynandRadziwill">Termin następnego posiedzenia podany będzie przez marszałka osobnem obwieszczeniem, w każdym razie po siedzenie następne odbędzie się nie wcześniej jak za 2 dni.</u>
+          <u xml:id="u-4.4" who="#MarszalekposelFerdynandRadziwill">Posiedzenie zamykam.</u>
+          <u xml:id="u-4.5" who="#komentarz">(Koniec posiedzenia o godz. 12 m. 40)</u>
+        </div>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>
